@@ -1,0 +1,20 @@
+{
+    "sdmpofg": {
+      "tw": "台語",
+      "zh": "中文",
+      "tl": "台羅",
+      "interval": 2
+    },
+    "sdmposdfg": {
+      "tw": "台語3",
+      "zh": "中文3",
+      "tl": "台羅3",
+      "interval": 1
+    },
+    "sdmsdpofg": {
+      "tw": "台語2",
+      "zh": "中文2",
+      "tl": "台羅2",
+      "interval": 4
+    }
+  }
